@@ -32,7 +32,7 @@ int main() {
 		
 	for (i = 0; i < MAX; i++) {
 		for (j = 0; j < MAX; j++) 
-			cout << nilai_tahun[i][j];
+			cout << nilai_tahun[i][j] << " ";
 		cout << "\n";
 	}
 	
